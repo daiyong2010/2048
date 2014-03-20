@@ -38,7 +38,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="14" selection-start="69" selection-end="69" vertical-scroll-proportion="0.10273973" vertical-offset="0" max-vertical-offset="1440">
+            <state line="23" column="10" selection-start="807" selection-end="807" vertical-scroll-proportion="0.5393836" vertical-offset="30" max-vertical-offset="1440">
               <folding />
             </state>
           </provider>
@@ -96,7 +96,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -131,6 +130,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,6 +185,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/game_manager.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="5" selection-start="1145" selection-end="1145" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/game_manager.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="1" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3765">
           <folding />
         </state>
@@ -220,11 +234,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.42213884" vertical-offset="0" max-vertical-offset="533" />
-      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.42213884" vertical-offset="0" max-vertical-offset="533" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/params.json">
@@ -281,7 +295,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="14" selection-start="69" selection-end="69" vertical-scroll-proportion="0.10273973" vertical-offset="0" max-vertical-offset="1440">
+        <state line="23" column="10" selection-start="807" selection-end="807" vertical-scroll-proportion="0.5393836" vertical-offset="30" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
